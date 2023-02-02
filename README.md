@@ -7,7 +7,7 @@
 
 ### Introduction
 
-For this project, you will work with the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment.
+For this project, you will work with the [Tennis](images/tennis.gif) environment.
 
 ![Trained Agent][image1]
 
@@ -43,6 +43,14 @@ The environment is considered solved, when the average (over 100 episodes) of th
 Follow the instructions in `Tennis.ipynb` to get started with training your own agent!  
 For more information check the REPORT.md.
 
-### Video
 
+### Misc : Configuration used 
+
+This agent has been trained on a local PC with Ubuntu 20.04.4 
+![local_pc](./images/Local_pc.png)
+
+
+
+### Video
+https://youtu.be/k4Dsk5AvnBs
 
